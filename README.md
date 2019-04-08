@@ -1,2 +1,3 @@
-# simple-demo
-testing repos
+# simple-demo (example repos)
+Repos for testing.
+
